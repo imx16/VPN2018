@@ -1,4 +1,4 @@
-package com.wxy.vpn2018;
+package com.x16studios.aesvpn;
 
 import android.content.Context;
 import android.net.ConnectivityManager;
@@ -21,8 +21,8 @@ import de.blinkt.openvpn.core.ProfileManager;
 
 /**
  * ==================================================
- * Created by wang on 2017/11/15. gentlewxy@163.com
- * Description:
+ * Created by Muhammad Shoaib. m.shoaib@gmx.com
+ * Description: Thank you for using my app :)
  * ==================================================
  */
 
